@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = gilsinghsg@gmail.com
+	name = Gil Singh
